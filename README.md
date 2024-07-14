@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Readme for Todo App 📝
 
 ### Installation 🚀
@@ -84,3 +85,6 @@ sudo service nginx restart
 ```
 
 These configurations enable communication between the Frontend and Backend using Private IP on the Backend VM. Ensure that the IPs and ports are correctly set to match your environment.
+=======
+# Frontend-reactAPP
+>>>>>>> 10e3bd730ccd6d340ee3d2dfda290ba9d4e456f2
